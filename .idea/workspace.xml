@@ -1,53 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fef628b-d9c7-4540-be12-67087ef57c3e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/16los angeles.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/17cairo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/22rochester.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/25madrid.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/28houston.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/29bristol.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/29buenos aires.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/2chennai.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/2hyderabad.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/35miami.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/36sydney.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/37athens.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/41seoul.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/45austin.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/45ithaca.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/46colombo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/47london.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/47sao paulo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/47singapore.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/48sunnyvale.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/4istanbul.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/50san diego.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/52new york.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/54dallas.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/55kiev.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/5bogota.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/61edinbrugh.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/64seattle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/66san jose.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/68pune.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/69chicago.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/69shanghai.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/72bangalore.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/72bucharest.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/73delhi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/74tel aviv.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/83gainesville.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/88jacksonville.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/89berkeley.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/90beijing.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/93manchester.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/96karachi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/97oakland.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prank/9barcelona.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/renaming_files.py" afterPath="$PROJECT_DIR$/renaming_files.py" />
-    </list>
+    <list default="true" id="2fef628b-d9c7-4540-be12-67087ef57c3e" name="Default" comment="" />
     <ignored path="SecretMessage.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -339,7 +293,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
